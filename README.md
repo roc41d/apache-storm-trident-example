@@ -1,2 +1,2 @@
-# apache-storm-trident-example
+# Apache Storm Trident Example
 Apache Storm word count example using Trident
